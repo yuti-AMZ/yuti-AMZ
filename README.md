@@ -38,10 +38,6 @@ A **C++ console application** that helps students manage their expenses using fi
 A **JavaScript-based productivity app** for adding, filtering, and tracking tasks.  
 🧩 *Focus:* Front-end interactivity and clean UI.  
 
-#### 🍱 **Food Donation App UI**
-Designed user flows, wireframes, and high-fidelity prototypes in **Figma**.  
-🧩 *Focus:* Accessibility and human-centered design.  
-
 ---
 
 ### 🌱 Currently Learning
@@ -56,16 +52,10 @@ Designed user flows, wireframes, and high-fidelity prototypes in **Figma**.
 
 | Platform | Profile |
 |-----------|----------|
-| 🧠 **LeetCode** | [@yuti-AMZ](https://leetcode.com/yuti-AMZ/) |
-| 💡 **Codeforces** | [@Yuti_A](https://codeforces.com/profile/Yuti_A) |
+| 🧠 **LeetCode** | [@yuti-AMZ]((https://leetcode.com/u/hayatamz)) |
+| 💡 **Codeforces** | [@Yuti_A](https://codeforces.com/profile/hayatamz) |
 
 ---
-
-### 📈 My GitHub Contribution Graph  
-[![Yuti’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuti-AMZ&bg_color=141321&color=F64C72&line=F64C72&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 📊 GitHub Stats & Badges  
 
 <div align="center">
@@ -83,12 +73,6 @@ Designed user flows, wireframes, and high-fidelity prototypes in **Figma**.
 - I’m addicted to minimalist design and color harmony.  
 - My dream is to build something that inspires people visually *and* functionally.  
 
----
-
-### 🏆 Achievements & Highlights
-- 🎖️ Built 10+ UI/UX and front-end projects  
-- 🧩 Solved 100+ coding problems  
-- 💬 Actively participating in developer communities and hackathons  
 
 ---
 
