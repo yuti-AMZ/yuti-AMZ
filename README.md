@@ -53,7 +53,7 @@ A **JavaScript-based productivity app** for adding, filtering, and tracking task
 | Platform | Profile |
 |-----------|----------|
 | 🧠 **LeetCode** | [@yuti-AMZ](https://leetcode.com/u/hayatamz) |
-| 💡 **Codeforces** | [@Yuti_A](https://codeforces.com/profile/hayatamz) |
+| 💡 **Codeforces** | [@Yuti_AMZ](https://codeforces.com/profile/hayatamz) |
 
 ---
 ### 📊 GitHub Stats & Badges  
@@ -72,7 +72,7 @@ A **JavaScript-based productivity app** for adding, filtering, and tracking task
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hayat-Zeynu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hayat-Zeynu-8bbb75290"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hayatzeynu576@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
