@@ -1,5 +1,5 @@
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=F64C72&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Yuti+👋;Graphic+Designer+%7C+Front-End+Developer+%7C+Software+Engineer;Design+meets+Code+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=F64C72&center=true&vCenter=true&width=800&lines=Hi,+I'm+Hayat+Zeynu+👋;Software+Engineering+Student+@+AASTU;Passionate+about+Front-End+%26+Design+✨;Passionate+about+Graphic+design)](https://git.io/typing-svg)
 
 ---
 
@@ -66,21 +66,14 @@ A **JavaScript-based productivity app** for adding, filtering, and tracking task
 
 </div>
 
----
-
-### ✨ Fun Facts About Me
-- I love transforming creative concepts into code.  
-- I’m addicted to minimalist design and color harmony.  
-- My dream is to build something that inspires people visually *and* functionally.  
-
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hayat-Zeynu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hayatzeynu576@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
