@@ -52,7 +52,7 @@ A **JavaScript-based productivity app** for adding, filtering, and tracking task
 
 | Platform | Profile |
 |-----------|----------|
-| 🧠 **LeetCode** | [@yuti-AMZ]((https://leetcode.com/u/hayatamz)) |
+| 🧠 **LeetCode** | [@yuti-AMZ](https://leetcode.com/u/hayatamz) |
 | 💡 **Codeforces** | [@Yuti_A](https://codeforces.com/profile/hayatamz) |
 
 ---
