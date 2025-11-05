@@ -56,7 +56,7 @@ A **JavaScript-based productivity app** for adding, filtering, and tracking task
 | 💡 **Codeforces** | [@Yuti_AMZ](https://codeforces.com/profile/hayatamz) |
 
 ---
-### 📊 GitHub Stats & Badges  
+### 📊 GitHub Status & Badges  
 
 <div align="center">
 
