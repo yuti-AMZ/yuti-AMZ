@@ -16,8 +16,8 @@ I aim to bridge **design aesthetics** and **clean code** — making technology f
 | Category | Skills |
 |-----------|--------|
 | 🎨 **Frontend** | HTML, CSS, JavaScript, React, Tailwind CSS |
-| 🧩 **Backend (Learning)** | Node.js, Express (beginner) |
-| 💾 **Databases** | MySQL, MongoDB (beginner) |
+| 🧩 **Backend (Learning)** | Node.js, Express  |
+| 💾 **Databases** | MySQL, MongoDB , PostgreSQL|
 | 🎨 **UI/UX & Design** | Figma, Adobe Photoshop, Prototyping |
 | ⚙️ **Tools** | Git, GitHub, VS Code, Canva |
 | 💻 **Programming** | C++, Java, Problem Solving |
