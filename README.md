@@ -15,12 +15,12 @@ I aim to bridge **design aesthetics** and **clean code** — making technology f
 
 | Category | Skills |
 |-----------|--------|
-| 🎨 **Frontend** | HTML, CSS, JavaScript, React, Tailwind CSS |
+| 🎨 **Frontend** | HTML, CSS, JavaScript, React, Tailwind CSS , Flutter |
 | 🧩 **Backend (Learning)** | Node.js, Express ,Spring boot |
 | 💾 **Databases** | MySQL, MongoDB , PostgreSQL|
 | 🎨 **UI/UX & Design** | Figma, Adobe Photoshop, Prototyping |
 | ⚙️ **Tools** | Git, GitHub, VS Code, Canva |
-| 💻 **Programming** | C++, Java, Problem Solving |
+| 💻 **Programming** | C++, Java, Problem Solving , Dart |
 
 ---
 
