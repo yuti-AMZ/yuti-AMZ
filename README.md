@@ -1,5 +1,5 @@
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=F64C72&center=true&vCenter=true&width=800&lines=Hi,+I'm+Hayat+Zeynu+👋;Software+Engineering+Student+@+AASTU;Passionate+about+Full stack+%26+Design+✨;Passionate+about+Graphic+design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=F64C72&center=true&vCenter=true&width=800&lines=Hi,+I'm+Hayat+Zeynu+👋;Software+Engineering+Student+@+AASTU;Passionate+about+Full-stack+%26+Design+✨;Passionate+about+Graphic+design)](https://git.io/typing-svg)
 
 ---
 
